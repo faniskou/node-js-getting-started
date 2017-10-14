@@ -8,6 +8,10 @@ var Path = require('path');
 const low = require("lowdb");
 const FileSync = require("lowdb/adapters/FileSync");
 
+
+const adapter = new FileSync("db.json");
+global.db = low(adapter);
+
 app.set('port', (process.env.PORT || 8000));
 
 
