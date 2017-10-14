@@ -11,16 +11,31 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "ejs": "2.5.6",
-    "express": "4.15.2"
+    "express": "4.15.2"   , 
+    "array-unique": "^0.3.2",
+    "body-parser": "^1.15.0",,
+    "swagger-ui-express": "^2.0.8",
+    "swaggerize-express": "^4.0.0",
+    "swagmock": "~0.0.2",
+    "lowdb": "^1.0.0",    
+    "uuid": "^3.1.0"
   },
   "devDependencies": {
     "request": "^2.81.0",
-    "tape": "^4.7.0"
-  },
+    "tape": "^4.7.0",   
+    "eslint": "^2",
+    "istanbul": "~0.4.3",
+    "is-my-json-valid": "^2.13.1",
+    "js-yaml": "^3.2.6",
+    "supertest": "^1.2.0",
+    "swagger-parser": "^3.4.1"
+    },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "lint": "eslint .",    
+    "url": "https://github.com/heroku/node-js-getting-started",    
+    "regenerate": "yo swaggerize:test --framework express --apiPath './config/swagger.json'"
+   
   },
   "keywords": [
     "node",
