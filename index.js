@@ -21,7 +21,7 @@ app.use(BodyParser.json());
 app.use(BodyParser.urlencoded({
     extended: true
 }));
-const swaggerDocument = require('./config/swagger.port.json');
+const swaggerDocument = require('./config/swagger.heroku.json');
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 app.use(Swaggerize({
     api: Path.resolve('./config/swagger.json'),
