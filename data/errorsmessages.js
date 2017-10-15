@@ -29,7 +29,7 @@ module.exports = {
     504: function () { return "The server was acting as a gateway or proxy and did not receive a timely response from the upstream server"; },
     505: function () { return "The server does not support the HTTP protocol version used in the request"; },
     511: function () { return "The client needs to authenticate to gain network access"; },
-    200: function () { return "The request is OK (this is the standard response for successful HTTP requests)"; },
+    200: function () { return "{'body'='The request is OK (this is the standard response for successful HTTP requests)'}"; },
     201: function () { return "The request has been fulfilled, and a new resource is created"; },
     202: function () { return "The request has been accepted for processing, but the processing has not been completed"; },
     203: function () { return "The request has been successfully processed, but is returning information that may be from another source"; },
