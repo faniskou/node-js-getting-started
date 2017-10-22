@@ -1,7 +1,7 @@
 {
   "Statistics": [
     {
-      "id": 0,
+      "id": "0081a08e-741d-4587-8001-fa04ee4f24de",
       "name": "SyncKey",
       "domainurl": "media.enikos.gr",
       "count": 51,
@@ -11,7 +11,7 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,
+      "id": "d781205e-d9a7-4ef1-8776-599896885d35",
       "name": "SyncKey",
       "domainurl": "ae",
       "count": 2,
@@ -21,7 +21,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "ec9b3c64-b306-4344-b2ab-8464e24adbee",
+      "name": "SyncKey",
       "domainurl": "wwww.enikos.gr",
       "count": 2,
       "modified": "2017-10-22 12:47:41",
@@ -30,7 +31,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "aad0b410-dd27-4e86-8876-6284bb0730f0",
+      "name": "SyncKey",
       "domainurl": "b.scorecardresearch.com",
       "count": 3,
       "modified": "2017-10-22 13:09:00",
@@ -39,7 +41,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "523f571c-570d-4f3f-96f7-e421b6416ca1",
+      "name": "SyncKey",
       "domainurl": "sportingbetgreek-affiliate.host.bannerflow.com",
       "count": 1,
       "modified": "2017-10-22 13:09:00",
@@ -48,7 +51,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "8076c4ce-dd68-468a-9e81-06a4933b9953",
+      "name": "SyncKey",
       "domainurl": "resources.sport-fm.gr",
       "count": 15,
       "modified": "2017-10-22 13:08:57",
@@ -57,7 +61,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "c9cfc7d1-9587-4d2a-b31d-12a41e610114",
+      "name": "SyncKey",
       "domainurl": "sport-fm.gr",
       "count": 28,
       "modified": "2017-10-22 13:08:59",
@@ -66,7 +71,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "11dc01d6-c7aa-4c3d-aea2-e8d8b8c85603",
+      "name": "SyncKey",
       "domainurl": "cdn.taboola.com",
       "count": 2,
       "modified": "2017-10-22 13:08:59",
@@ -75,7 +81,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "54d8b1e1-ff9f-44ed-a51c-1c867a9fc9cb",
+      "name": "SyncKey",
       "domainurl": "c11pr.com",
       "count": 1,
       "modified": "2017-10-22 13:08:57",
@@ -84,7 +91,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "90454910-ef2f-4f2a-802a-301d8d01cd5c",
+      "name": "SyncKey",
       "domainurl": "static.criteo.net",
       "count": 1,
       "modified": "2017-10-22 13:08:57",
@@ -93,7 +101,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "fbbb6421-f252-4d03-98ee-20129aa24797",
+      "name": "SyncKey",
       "domainurl": "pagead2.googlesyndication.com",
       "count": 2,
       "modified": "2017-10-22 13:08:55",
@@ -102,7 +111,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "e078ac6b-f75d-4618-8c90-bdd16473f6d5",
+      "name": "SyncKey",
       "domainurl": "pacontainer.s3.amazonaws.com",
       "count": 1,
       "modified": "2017-10-22 13:08:54",
@@ -111,7 +121,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "1d514f29-3012-464b-9eeb-93c6610d5e06",
+      "name": "SyncKey",
       "domainurl": "static.adman.gr",
       "count": 1,
       "modified": "2017-10-22 13:08:54",
@@ -130,7 +141,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "a8ffcb6d-f4da-4efa-830e-875288a0dc65",
+      "name": "SyncKey",
       "domainurl": "ybtsblja",
       "count": 1,
       "modified": "2017-10-22 13:06:54",
@@ -139,7 +151,8 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "8da6d0a4-a909-4c79-a35c-4ec1e908383f",
+      "name": "SyncKey",
       "domainurl": "migzkao",
       "count": 1,
       "modified": "2017-10-22 13:06:54",
@@ -148,13 +161,25 @@
       "extrainfo": "{}"
     },
     {
-      "id": 0,      "name": "SyncKey",
+      "id": "a78f9b7d-2a40-43f9-a6b6-ad1be4540168",
+      "name": "SyncKey",
       "domainurl": "connectivitycheck.gstatic.com",
       "count": 1,
       "modified": "2017-10-22 13:06:48",
       "sourceactivity": "operando",
       "hidden": "no",
       "extrainfo": "{}"
+    },
+    {
+      "id": "0c3f0aa9-f8ec-4512-9800-530cac81ae58",
+      "name": "SyncKey",
+      "domainurl": "ttttt",
+      "count": 222,
+      "modified": "2001.07.04 AD at 12:08:56 PDT",
+      "sourceactivity": "operando",
+      "hidden": "no",
+      "category": "news",
+      "extrainfo": "{'for initialatation':'yes'}"
     }
   ],
   "appidentity": [
