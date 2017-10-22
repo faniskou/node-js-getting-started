@@ -136,17 +136,17 @@
   "appidentity": [
     {
       "id": "fd2a166c-e566-4713-b545-2f8d426b18c7",
-      "name": "fanis",
+      "name": "enikos",
       "domainurl": "www.enikos.gr",
-      "app_name": "ClashOfClanshGame",
-      "count": 2,
+      "app_name": "enikos",
+      "count": 1,
       "duration": 21
     },
     {
       "id": "189de9ef-44b8-41a8-9c8d-b2ccd47fd096",
-      "name": "fanis",
-      "domainurl": "www.enikos.gr",
-      "app_name": "ClashOfClanshGame",
+      "name": "enikos",
+      "domainurl": "media.enikos.gr",
+      "app_name": "enikos",
       "count": 2,
       "duration": 21
     },
