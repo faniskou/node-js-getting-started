@@ -151,44 +151,28 @@
       "duration": 21
     },
     {
-      "id": "0a924528-29f0-4a11-bd94-d141d1b2690d",
-      "name": "fanis",
-      "domainurl": "www.enikos.gr",
-      "app_name": "ClashOfClanshGame",
-      "count": 2,
-      "duration": 21
+      "id": "94ebc7a5-47d2-4157-8ec8-3a33e36c53cc",
+      "name": "gameclashofclan",
+      "domainurl": "1681.engine.mobileapptracking.com:443",
+      "app_name": "gameclashofclan",
+      "count": 1,
+      "duration": 10
     },
     {
-      "id": "ab7fe75d-0ef1-4ac1-99e2-ccae7c3473e3",
-      "name": "fanis",
-      "domainurl": "www.enikos.gr",
-      "app_name": "ClashOfClanshGame",
-      "count": 2,
-      "duration": 21
+      "id": "fe685223-2c7d-4d8b-8fb7-decbf4fa31ad",
+      "name": "gameclashofclan",
+      "domainurl": "inbox.clashofclans.com:443",
+      "app_name": "gameclashofclan",
+      "count": 1,
+      "duration": 10
     },
     {
-      "id": "fbec9128-eb87-402b-b794-9e8299ad64f5",
-      "name": "fanis",
-      "domainurl": "www.enikos.gr",
-      "app_name": "chrome",
-      "count": 2,
-      "duration": 21
-    },
-    {
-      "id": "4c6e3f21-b358-4478-89b7-363fd4648155",
-      "name": "fanis2",
-      "domainurl": "www.enikos.gr",
-      "app_name": "chrome",
-      "count": 2,
-      "duration": 21
-    },
-    {
-      "id": "64bb012f-fb5d-4747-b98a-e92d7b8f269d",
-      "name": "fanis",
-      "domainurl": "fanis.gr",
-      "app_name": "fanisapp",
-      "count": 233,
-      "duration": 212
+      "id": "a6de312d-f73a-450d-929c-fb20e07df9af",
+      "name": "gameclashofclan",
+      "domainurl": "service.supercell.net:443",
+      "app_name": "gameclashofclan",
+      "count": 1,
+      "duration": 10
     }
   ]
 }
